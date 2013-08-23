@@ -1,0 +1,7 @@
+osx/
+build/
+linux/
+current.h
+*.out
+*.o
+src/
